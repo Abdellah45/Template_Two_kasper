@@ -1,11 +1,9 @@
-
 /*global rules*/
 *{
   box-sizing:border-box;
   padding:0;
   margin:0;
 }
-
 :root{
   --main-color:#19c8fa;
   --transp-color:rgb(15 116 143 / 70%);
@@ -128,6 +126,7 @@ ul{
  }
 
 /*End header*/
+
 
 /*Start landing page*/
  .landing{
